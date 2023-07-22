@@ -14,6 +14,11 @@ Welcome to the Rock-Paper-Scissors (RPS) Game! This game is a Python-based imple
    
 5. **Self Learning Advanced Robot**: A crucial aspect of such a robot is its ability to learn from experience. By utilizing machine learning techniques, the robot can analyze data, identify patterns, and continuously improve its performance based on feedback and outcomes.
 
+## Pictures
+<img width="425" alt="image" src="https://github.com/Ek2100/rps/assets/113011003/eee9daa1-26b3-4e06-87dd-2c0706ba031b">
+<img width="651" alt="image" src="https://github.com/Ek2100/rps/assets/113011003/99bb4ffd-bf0e-4ec9-81fc-db2d2b09a263">
+
+
 ## Installation
 
 To install and run the Rock-Paper-Scissors game on your machine, follow these steps:
