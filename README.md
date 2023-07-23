@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors Game 
 
+[![Visits](https://img.shields.io/badge/dynamic/json?label=Visits&query=$.visits&url=https://rps-api.eliaskhoury1.repl.co/visits/)](https://github.com/Ek2100/rps)
+
 Welcome to the Rock-Paper-Scissors (RPS) Game! This game is a Python-based implementation of the classic Rock-Paper-Scissors game, with additional features such as a leaderboard, login system, API, and a advanced learning robot. The game is designed to be easy to play, challenging, and enjoyable for users.
 
 ## Features
