@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Game 
 
-[![Games Played](https://img.shields.io/badge/dynamic/json?label=GamesPlayed&query=$.visits&url=https://rps-api.eliaskhoury1.repl.co/visits/)](https://github.com/Ek2100/rps) ![License](https://img.shields.io/github/license/Ek2100/rps) ![Last Commit](https://img.shields.io/github/last-commit/Ek2100/rps) ![Open Issues](https://img.shields.io/github/issues/Ek2100/rps) ![Open Pull Requests](https://img.shields.io/github/issues-pr/Ek2100/rps) ![Version](https://img.shields.io/badge/version-2.5.1-brightgreen)
+[![Games Played](https://img.shields.io/badge/dynamic/json?label=GamesPlayed&query=$.visits&url=https://rps-api.eliaskhoury1.repl.co/visits/)](https://github.com/Ek2100/rps) ![License](https://img.shields.io/github/license/Ek2100/rps) ![Last Commit](https://img.shields.io/github/last-commit/Ek2100/rps) ![Open Issues](https://img.shields.io/github/issues/Ek2100/rps) ![Open Pull Requests](https://img.shields.io/github/issues-pr/Ek2100/rps) ![Version](https://img.shields.io/badge/version-2.6.2-brightgreen)
 
 Welcome to the Rock-Paper-Scissors (RPS) Game! This game is a Python-based implementation of the classic Rock-Paper-Scissors game, with additional features such as a leaderboard, login system, API, and a advanced learning robot. The game is designed to be easy to play, challenging, and enjoyable for users.
 
