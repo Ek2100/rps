@@ -43,6 +43,7 @@ To install and run the Rock-Paper-Scissors game on your machine, follow these st
    python main.py
    ```
 
+**NOTE:** If you prefer, you may choose to use the public version: https://replit.com/@EliasKhoury1/RPS-Official?v=1
 ## Usage
 
 1. **Gameplay**: Upon starting the game, you'll be presented with the main menu where you can select to play the Rock-Paper-Scissors game against the computer among a list of other things.
